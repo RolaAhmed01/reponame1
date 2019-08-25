@@ -1,0 +1,37 @@
+body{
+font-family:cursive;
+font-size:30px;
+margin: 0px;
+background-color:rgb(0,0,102);
+}
+p{
+  color: rgb(255,0,127);
+  font-family: cursive;
+  font-size:20px;
+  margin: 0px
+}
+h1,h2{text-align:left;
+color: rgb(255,255,255)}
+
+li:hover{font-size: 1.2em;
+  color:(204,0,102);
+}
+img{ border-radius: 50%; display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+}
+p{margin-right: 1000px;
+margin-left: 80px;}
+  margin-right: 1000px;
+  margin-left: 80px;}
+  body {background-color: lightblue;}
+div#as{background-color:(0,0,51);
+}
+
+
+h1#rr {text-align: center;
+}
+ul{width: auto;
+margin: :70}
+div#blue{background-color: ;}
